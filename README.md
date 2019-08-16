@@ -1,7 +1,8 @@
 # terraform-aws-kms
 
-A terraform module to create a managed KMS Customer Master Key (CMK) and its alias.. Available
-through the [Terraform registry](https://registry.terraform.io/modules/rekcah78/kms/aws).
+A terraform module to create a managed KMS Customer Master Key (CMK) and its alias.
+
+Available through the [Terraform registry](https://registry.terraform.io/modules/rekcah78/kms/aws).
 
 | Branch | Build status                                                                                                                            |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------- |
